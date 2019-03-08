@@ -14,3 +14,6 @@ function affichePub() {
       } 
 }
 
+function psy() {
+      document.body.style.backgroundColor = "magenta";
+}
